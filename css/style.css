@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+
+    background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+    
+    color: white;
+    text-align: center;
+
+ul {
+    list-style-position: inside;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    list-style: disc;
+}
+
+
+}
